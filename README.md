@@ -14,6 +14,10 @@ I am Computer Engineer. I'm passionate about creating AI-driven solutions that s
 ![](https://github-readme-stats.vercel.app/api?username=Arbin17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arbin17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbin17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arbin17&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arbin17&icon=0&color=0)](https://visitcount.itsvg.in)
