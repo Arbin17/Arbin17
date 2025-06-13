@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Engineer passionate about building AI-driven solutions that solve real-world business problems.
+I'm a Computer Engineer passionate about building AI-driven solutions that solve real-world business problems..
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
